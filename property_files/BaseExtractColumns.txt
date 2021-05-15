@@ -1,0 +1,7 @@
+BE_Trends_CsgPasAcctPtnInventory
+BE_Trends_CsgSbbEqpDeviceType
+BE_Trends_EisDevice
+BE_Trends_HssMasterExtract
+BE_Trends_NetrecBaccMaster
+BE_Trends_RefExclusionExtract
+BE_Trends_ScoutCableModemPoll
