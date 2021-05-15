@@ -1,6 +1,6 @@
 import pandas as pd
 
-
+#added comments
 class StatusInfo:
 
     def get_jc_status(date, job_control_name):
